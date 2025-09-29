@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://alvinj404.github.io/" 
+title: Yifan (Alvin) Jiang | 姜屹帆
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Yifan (Alvin) Jiang | 姜屹帆
+          subtitle: "I am a MSCS student at the University of Rochester, interested in HCI, AR/VR, and Computer Graphics. I am looking for Ph.D. opportunities in relevant areas."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Yifan (Alvin) Jiang | 姜屹帆"
       icon: favicon.ico
       iconHeight: 18
 
