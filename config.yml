@@ -8,25 +8,25 @@ pagination:
   pagerSize: 20
 
 taxonomies:
-    tag: tags
+    tag: Tags
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
+          weight: 1
+        - name: Projects
+          url: projects/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Teachings
+          url: teachings/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Tags
+          url: tags/
+          weight: 4
+        - name: News
+          url: news/
+          weight: 5
 
 params:
     description: "This website hosts Yifan Jiang's research papers, interests, and contact information."
@@ -55,25 +55,21 @@ params:
     profileMode:
           enabled: true
           title: Yifan (Alvin) Jiang | 姜屹帆
-          subtitle: "I am a MSCS student at the University of Rochester, interested in HCI, AR/VR, and Computer Graphics. I am looking for Ph.D. opportunities in relevant areas."
+          subtitle: "I am a MSCS student at the University of Rochester, passionate about HCI, AR/VR, and Computer Graphics. I am looking for Ph.D. opportunities in relevant areas."
           imageUrl: "headshot.png"
           imageWidth: 200
           imageHeight: 200
           buttons:
             - name: Publications
               url: publications/
-            # - name: Data
-            #   url: data/
-            # - name: Books
-            #   url: books/
+            - name: Projects
+              url: projects/
             - name: Teachings
               url: teachings/
             - name: Tags
               url: tags/
             - name: News
               url: news/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
