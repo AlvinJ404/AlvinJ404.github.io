@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yifan (Alvin) Jiang | 姜屹帆</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yifan (Alvin) Jiang | 姜屹帆</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I am thrilled to announce that I will be attending IEEE ISMAR&#39;25! See you in Daejeon, Korea.</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>JengaX</title>
+      <link>http://localhost:1313/projects/jengax/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/jengax/</guid>
+      <description>JengaX is a VR system that transforms a traditional physics classroom into an interactive playground. Students can access and interact with 3D-rendered objects by simply touching or dragging a 2D figure in the classroom presentation. It is in its early development stage and we are conducting literature review.</description>
+    </item>
+    <item>
+      <title>GenLARP: Enabling Immersive Live Action Role-Play through LLM-Generated Worlds and Characters</title>
+      <link>http://localhost:1313/projects/genlarp/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/genlarp/</guid>
+      <description>GenLARP is an AI-drive Live Action Role-Play (LARP) system that generates interactive 3D environments and characters in real time using LLMs, supporting immersive narrative role play for education and experiential learning. We are currently extending this research project into a full conference paper.</description>
+    </item>
+    <item>
+      <title>GenLARP: Enabling Immersive Live Action Role-Play through LLM-Generated Worlds and Characters</title>
+      <link>http://localhost:1313/publications/genlarp/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/genlarp/</guid>
+      <description>GenLARP is an AI-drive Live Action Role-Play (LARP) system that generates interactive 3D environments and characters in real time using LLMs, supporting immersive narrative role play for education and experiential learning.</description>
+    </item>
+    <item>
+      <title>EmbodiedCreate: In-Situ 3D Authoring for Analogical Learning</title>
+      <link>http://localhost:1313/publications/embodiedcreate/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/embodiedcreate/</guid>
+      <description>GenLARP is an AI-drive Live Action Role-Play (LARP) system that generates interactive 3D environments and characters in real time using LLMs, supporting immersive narrative role play for education and experiential learning.</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>CSC242: Intro to Artificial Intelligence</title>
+      <link>http://localhost:1313/teachings/csc242/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teachings/csc242/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>CSC172: Data Structures &amp; Algorithms (Workshop Leader)</title>
+      <link>http://localhost:1313/teachings/csc172/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teachings/csc172/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+  </channel>
+</rss>

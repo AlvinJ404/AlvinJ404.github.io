@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Yifan (Alvin) Jiang | 姜屹帆
-          subtitle: "I am a MSCS student at the University of Rochester, passionate about HCI, AR/VR, and Computer Graphics. I am looking for Ph.D. opportunities in relevant areas."
+          subtitle: "I am a <strong>MSCS student</strong> at the <strong><a href='https://www.cs.rochester.edu' target='_blank' rel='noopener'>University of Rochester</a></strong>, advised by <strong><a href='https://zhenbai.io/' target='_blank' rel='noopener'>Prof. Zhen Bai</a></strong> in the <strong><a href='https://interplaylab.com/' target='_blank' rel='noopener'>inter.play lab</a></strong>. I am also a part-time research assistant under <strong><a href='http://georgiejin.com/' target='_blank' rel='noopener'>Prof. Qiao Jin</a></strong> at <strong><a href='https://csc.ncsu.edu/' target='_blank' rel='noopener'>North Carolina State University</a></strong>. I am passionate about <strong>Human-Computer Interaction</strong>, <strong>AR/VR</strong>, <strong>EduTech</strong> and <strong>Computer Graphics</strong> and actively seeking Ph.D. opportunities in relevant areas."
           imageUrl: "headshot.png"
           imageWidth: 200
           imageHeight: 200
@@ -73,7 +73,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Yifan_Jiang_CV.pdf
         - name: Email
           url: mailto:yjiang54@ur.rochester.edu
         # - name: Zoom

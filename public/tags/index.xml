@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Yifan (Alvin) Jiang | 姜屹帆</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Yifan (Alvin) Jiang | 姜屹帆</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/tags/unity/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VR</title>
+      <link>http://localhost:1313/tags/vr/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tags/Embodied Learning</title>
+      <link>http://localhost:1313/tags/embodied-learning/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/embodied-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tags/MCP</title>
+      <link>http://localhost:1313/tags/mcp/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mcp/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

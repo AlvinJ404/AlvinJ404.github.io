@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Yifan (Alvin) Jiang | 姜屹帆</title>
+    <link>http://localhost:1313/tags/llm/</link>
+    <description>Recent content in LLM on Yifan (Alvin) Jiang | 姜屹帆</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JengaX</title>
+      <link>http://localhost:1313/projects/jengax/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/jengax/</guid>
+      <description>JengaX is a VR system that transforms a traditional physics classroom into an interactive playground. Students can access and interact with 3D-rendered objects by simply touching or dragging a 2D figure in the classroom presentation. It is in its early development stage and we are conducting literature review.</description>
+    </item>
+    <item>
+      <title>GenLARP: Enabling Immersive Live Action Role-Play through LLM-Generated Worlds and Characters</title>
+      <link>http://localhost:1313/projects/genlarp/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/genlarp/</guid>
+      <description>GenLARP is an AI-drive Live Action Role-Play (LARP) system that generates interactive 3D environments and characters in real time using LLMs, supporting immersive narrative role play for education and experiential learning. We are currently extending this research project into a full conference paper.</description>
+    </item>
+    <item>
+      <title>GenLARP: Enabling Immersive Live Action Role-Play through LLM-Generated Worlds and Characters</title>
+      <link>http://localhost:1313/publications/genlarp/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/genlarp/</guid>
+      <description>GenLARP is an AI-drive Live Action Role-Play (LARP) system that generates interactive 3D environments and characters in real time using LLMs, supporting immersive narrative role play for education and experiential learning.</description>
+    </item>
+    <item>
+      <title>EmbodiedCreate: In-Situ 3D Authoring for Analogical Learning</title>
+      <link>http://localhost:1313/publications/embodiedcreate/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/embodiedcreate/</guid>
+      <description>GenLARP is an AI-drive Live Action Role-Play (LARP) system that generates interactive 3D environments and characters in real time using LLMs, supporting immersive narrative role play for education and experiential learning.</description>
+    </item>
+  </channel>
+</rss>
