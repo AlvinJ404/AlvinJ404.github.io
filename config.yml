@@ -83,7 +83,7 @@ params:
         # - name: Office Hours
         #   url: officehours/
         - name: Google Scholar
-          url: https://google.com
+          url: https://scholar.google.com/citations?hl=en&user=XeEJmuwAAAAJ&view_op=list_works&gmla=AH8HC4xsL0H6C7Cvs404_6GHG3GzzmiRhxXTlMG5ejcmVVH-H_EsnrSgO8vbZQ0zhP9DwSEqHsea2XUHuh7fTtYR
         - name: GitHub
           url: https://github.com/AlvinJ404
         # - name: Substack
